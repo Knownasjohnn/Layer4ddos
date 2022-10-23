@@ -10,4 +10,7 @@
 
 >git clone https://github.com/Knownasjohnn/Layer4ddos
 
->
+>cd Layer4ddos
+
+
+>python kazutorados.py
